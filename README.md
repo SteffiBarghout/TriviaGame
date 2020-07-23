@@ -14,6 +14,6 @@ There is 30 seconds to answer the question and then a fun gif of the correct ani
 
 ## The working Animal Trivia Game
 * click on the image to go to the game
-<a href="https://steffisbootcampdrive.github.io/TriviaGame/" target="_blank">
+<a href="https://steffisbootcampdrive.github.io/TriviaGame/index.html" target="_blank">
     <img src="assets/images/AnimalTriviaGame.png" alt="AnimalTriviaGame">
 </a>
